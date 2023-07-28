@@ -49,8 +49,8 @@ HEAD~1 означает один коммит до HEAD, т.е. до текущ�
 #### Как восстановить удалённый файл?
 
 <тута будет ответ <span style="color:gray">скоро*</span>>
-#### Как отменить «git add» до коммита?
 
->Актуальный гайд по markdown - [Кликай сюда](https://www.markdownguide.org/basic-syntax/ "https://www.markdownguide.org/basic-syntax/")
+<hr>
+<span style="color:gray">Актуальный гайд по markdown</span> - [Кликай сюда](https://www.markdownguide.org/basic-syntax/ "https://www.markdownguide.org/basic-syntax/")
 
 [<p align="right"><img src="geekbrains-logo.png" width="150"/></p>](/geekbrains-logo.png) 
