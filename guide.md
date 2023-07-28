@@ -32,7 +32,14 @@
 
 #### Как восстановить удалённый файл?
 
-<тута будет ответ <span style="color:gray">скоро*</span>>
+Чтобы восстановить удаленный файл, для начала необходимо найти последний коммит, где этот файл ещё существует. Сделать это можно командой:
+
+>git rev-list -n 1 HEAD -- file_name
+
+Дальше восстанавливаем файл:
+
+>git checkout тут_найденный_коммит^ -- file_name
+
 #### Как отменить «git add» до коммита?
 
 >Актуальный гайд по markdown - [Кликай сюда](https://www.markdownguide.org/basic-syntax/ "https://www.markdownguide.org/basic-syntax/")
